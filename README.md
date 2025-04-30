@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Project related to AI and machine learning, data structure and website development 
 - 📫 How to reach me ...ibukunshola@gmail.con 
 - 😄 Pronouns: ...his/him/he
-- ⚡ Fun fact: ... I love maths and science 
+- ⚡ Fun fact: ... I love maths, aerospace technology and science 
 
 <!---
 Sholaavis/Sholaavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
